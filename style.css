@@ -1,0 +1,29 @@
+#content {
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    size: 20px;
+}
+
+
+#textBox{
+    align-content: center;
+    text-align: left;
+    box-align: center;
+    size: 20px;
+}
+
+#addItemButton {
+    color: white;
+    background-color: green;
+}
+
+#removeButton {
+    color: black;
+    background-color: orange;
+}
+
+#clearButton {
+    color: black;
+    background-color: red;
+}
